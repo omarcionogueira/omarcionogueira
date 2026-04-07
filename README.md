@@ -1,30 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Márcio Nogueira
 ========================================================================================================================================
 
-Desenvolvedor e Web Design
---------------------------
-
-Sou desenvolvedor web com experiência prática desde 2019. Me formei em Análise e Desenvolvimento de Sistemas em 2022 e atuo como freelancer há mais de 4 anos, entregando soluções digitais que unem funcionalidade, design e performance.
-
-Tenho conhecimento sólido nas principais tecnologias do desenvolvimento web:
-
-Front-end: HTML, CSS, Bootstrap 5, JavaScript, React
-
-Back-end: PHP, APIs REST
-
-Banco de dados: SQL, MySQL
-
-Design e UX: Web design responsivo e centrado no usuário
-
-Além disso, possuo noções importantes que complementam minha atuação como desenvolvedor:
-
-Versionamento e colaboração: uso Git e GitHub para controle de código e trabalho em equipe, demonstrando maturidade em projetos colaborativos.
-
-Testes e qualidade de código: estou familiarizado com testes automatizados (como Jest e PHPUnit) e ferramentas de linting, que ajudam a manter o código limpo e confiável.
-
-Deploy e DevOps básico: tenho noções de hospedagem, CI/CD, Docker e configuração de servidores, o que me permite entregar projetos completos e prontos para produção.
-
-Busco sempre aplicar boas práticas de desenvolvimento, modularidade, segurança e escalabilidade. Estou em constante evolução, aprendendo novas ferramentas e técnicas para oferecer soluções cada vez mais eficientes.
 
 * 🌍  I'm based in Brasil/RO
 * ✉️  You can contact me at [contato@marcionogueira.com.br](mailto:contato@marcionogueira.com.br)
