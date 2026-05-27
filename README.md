@@ -7,7 +7,13 @@
 </p>
 
 <p align="left">
-  Full-stack developer focado em sistemas distribuídos, automação e processamento de dados em larga escala.
+  💻 &nbsp;<b>Full-stack developer</b> apaixonado por tecnologia, focado em <b>sistemas distribuídos</b>, <b>automação</b> e <b>processamento de dados em larga escala</b>.
+  <br><br>
+  🚀 &nbsp;Gosto de construir do banco de dados ao frontend — desenhando arquiteturas escaláveis com filas, workers e microsserviços, e transformando dados em produtos úteis.
+  <br>
+  ⚡ &nbsp;Sempre estudando algo novo, experimentando ferramentas e buscando a melhor forma de resolver problemas reais com código limpo e performático.
+  <br>
+  🤝 &nbsp;Aberto a colaborações, novos desafios e a trocar ideia sobre tech.
 </p>
 
 ---
@@ -66,11 +72,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omarcionogueira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcionogueira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarcionogueira&theme=tokyonight&hide_border=true" alt="GitHub streak" />
